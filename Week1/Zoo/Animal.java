@@ -8,7 +8,7 @@
 public abstract class Animal {
 
     //Instance variable
-    private String name;
+    protected String name;
 
     //constructor
     public Animal(String name) {
