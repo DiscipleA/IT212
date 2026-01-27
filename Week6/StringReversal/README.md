@@ -58,8 +58,8 @@ Ensure you have [java](https://www.oracle.com/java/technologies/downloads/) inst
    
 2. **Execute the script**:
    ```bash
-   javac StringReversal.js
-   java StringReversal.js
+   javac StringReversal.java
+   java StringReversal.java
    ```
 3. **Observe Results**: The terminal will display the output for all six pre-configured test cases (3 Normal, 3 Edge).
 
