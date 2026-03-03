@@ -1,0 +1,4 @@
+node_modules/
+output/*.md
+output/*.pdf
+.DS_Store
