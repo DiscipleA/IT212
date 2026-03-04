@@ -1,0 +1,12 @@
+com/example/insertionsort/core/SortAlgorithm.class
+com/example/insertionsort/cli/SortCli.class
+com/example/insertionsort/core/SortResult.class
+com/example/insertionsort/core/StabilityDemo.class
+com/example/insertionsort/core/InsertionSortBinary.class
+com/example/insertionsort/App.class
+com/example/insertionsort/model/SortResponse.class
+com/example/insertionsort/cli/SortCli$Request.class
+com/example/insertionsort/model/Pair.class
+com/example/insertionsort/core/SortRunner.class
+com/example/insertionsort/core/InsertionSortRegular.class
+com/example/insertionsort/model/SortRequest.class

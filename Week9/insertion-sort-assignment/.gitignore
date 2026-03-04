@@ -1,0 +1,4 @@
+js/node_modules/
+js/reports/*.md
+js/reports/*.pdf
+.DS_Store
