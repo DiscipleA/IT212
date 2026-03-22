@@ -1,0 +1,7 @@
+Server Log Analysis Report
+--------------------------
+INFO  : 75
+WARN  : 11
+ERROR : 13
+
+Total Logs Processed: 99
