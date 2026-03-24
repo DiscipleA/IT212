@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class Java_Generics_Basics {
     public static void main(String[] args) {
         // -- Part 1: StringProcessor_P1 demonstration --
